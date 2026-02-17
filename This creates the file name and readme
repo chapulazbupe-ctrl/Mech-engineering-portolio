@@ -1,0 +1,16 @@
+Control-System-PID-Design/README.md
+# Control System Modelling & PID Design (MATLAB/Simulink)
+
+**Tools:MATLAB, Simulink/Simscape, Control System Toolbox  
+**What I did:System identification, transfer function modelling, PID tuning, response analysis.
+
+## Highlights
+- Identified system parameters from experimental data
+- Simulated proportional and PID controllers
+- Compared simulation vs experimental response (overshoot, rise time, settling time, SSE)
+
+## Files in this folder
+- report-summary.pdf 
+- plots/ (response plots)
+- matlab-scripts/ (scripts used)
+- simulink/ (screenshots or models)
